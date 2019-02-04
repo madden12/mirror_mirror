@@ -1,0 +1,24 @@
+#first-article {
+    display: inline-block;
+    width: 50%;
+    justify-content: flex-start;
+    /* align-items: stretch; */
+    /* align-content: space-between;  */
+    /* float: left; */
+    border-width: 2px;
+    border-style: solid;
+    border-color:  purple
+
+}
+
+#second-article {
+   display: inline-block;
+   width: 50%;
+   justify-content: flex-end;
+   /* align-items: stretch; */
+   /* align-content: space-between; */
+   border-width: 3px;
+   border-style: solid;
+   border-color: lawngreen;
+
+}
